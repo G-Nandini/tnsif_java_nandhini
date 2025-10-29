@@ -1,4 +1,4 @@
-package day10_junit_codes;
+package junit_codes;
 
 import static org.junit.Assert.assertTrue;
 

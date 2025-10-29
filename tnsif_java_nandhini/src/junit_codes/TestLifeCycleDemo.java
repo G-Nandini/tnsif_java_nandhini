@@ -1,4 +1,4 @@
-package day10_junit_codes;
+package junit_codes;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
