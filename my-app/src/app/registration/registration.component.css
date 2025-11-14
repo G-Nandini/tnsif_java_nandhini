@@ -1,0 +1,53 @@
+.container {
+  width: 420px;
+  margin: 30px auto;
+  border: 1px solid #aaa;
+  border-radius: 8px;
+  padding: 20px;
+  font-family: Arial;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+input, select, textarea {
+  width: 100%;
+  margin-top: 5px;
+  padding: 7px;
+  border: 1px solid #888;
+  border-radius: 4px;
+}
+
+.radio-group label {
+  margin-right: 15px;
+}
+
+button {
+  margin-top: 15px;
+  margin-right: 10px;
+  padding: 7px 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background: #1976d2;
+  color: white;
+}
+
+button[type="button"] {
+  background: #555;
+}
+
+.error small {
+  color: red;
+  font-size: 12px;
+}
+
+.output-box {
+  margin-top: 18px;
+  padding: 15px;
+  border: 1px dashed #444;
+  border-radius: 6px;
+}
